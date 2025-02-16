@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/shimizuatsuki/Desktop/Tech0/Advanced3/GitHub/Advanced3_app_test_frontend/src/app/layout\":[\"static/media/463dafcda517f24f-s.p.woff\",\"static/media/4473ecc91f70f139-s.p.woff\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
